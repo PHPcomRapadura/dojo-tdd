@@ -1,5 +1,7 @@
 # Cervejaria PHPinga
 
+Link da Live: https://www.youtube.com/watch?v=JsLqAvZpmEU
+
 Funcionalidade: Cadastrar cliente
     Regras:
     - Cliente tem nome, email e data de nascimento
@@ -40,5 +42,7 @@ Funcionalidade: Comprar uma cerveja
         E um item (cerveja) válido
         Quando tento adicionar mais de 6 cervejas
         Devo receber um erro "Compra máxima de 6 cervejas"
+
+## Talk do Vinícius Dias Sobre Testes de Mutação
 
 https://www.youtube.com/watch?v=JsLqAvZpmEU
